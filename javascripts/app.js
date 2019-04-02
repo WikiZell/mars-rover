@@ -73,6 +73,7 @@ var rover3 = Object.create(rover);
 
 
 
+//MAP
 
 var map = [
   ["R", null, null, "X", null, null, "X", null, null, null],
